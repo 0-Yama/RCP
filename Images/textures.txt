@@ -1,0 +1,14 @@
+Images\background.png
+Images\backgroundPlay.jpg
+Images\select.gif
+Images\titre.gif
+Images\play.gif
+Images\options.gif
+Images\exit.gif
+Images\soundsOff.gif
+Images\soundsOn.gif
+Images\res3840x2160.gif
+Images\res2560x1440.gif
+Images\res1920x1080.gif
+Images\res1280x720.gif
+Images\return.gif

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1578690293 source:c:\users\o-yama\desktop\projet c\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	"Struct.h"
+	"config.h"
+
+1578690160 source:c:\users\o-yama\desktop\projet c\menu\config.c
+	"Struct.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1576679895 source:c:\users\o-yama\desktop\projet c\menu\struct.c
+
+1578689376 c:\users\o-yama\desktop\projet c\menu\struct.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1578689377 c:\users\o-yama\desktop\projet c\menu\config.h
+
+1576766833 c:\users\o-yama\desktop\projet c\menu\texture.h
+
+1576767947 source:c:\users\o-yama\desktop\projet c\menu\texture.c
+	"Struct.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1578602523 source:c:\users\o-yama\desktop\projet c\menu\play.c
+
